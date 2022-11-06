@@ -1,0 +1,52 @@
+<svg width="1920" height="960" viewBox="0 0 1920 960" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="480" height="480" fill="#C4C4C4"/>
+<rect width="480" height="480" fill="url(#pattern0)"/>
+<rect x="480" width="480" height="480" fill="url(#pattern1)"/>
+<rect x="480" width="480" height="480" fill="#34547A" fill-opacity="0.8"/>
+<rect x="960" width="480" height="480" fill="#C4C4C4"/>
+<rect x="960" width="480" height="480" fill="url(#pattern2)"/>
+<rect x="1440" width="480" height="480" fill="#D8D8D8"/>
+<rect x="1440" width="480" height="480" fill="url(#pattern3)"/>
+<rect x="479" y="480" width="480" height="480" fill="#C4C4C4"/>
+<rect x="479" y="480" width="480" height="480" fill="url(#pattern4)"/>
+<rect x="1440" y="480" width="480" height="480" fill="#C4C4C4"/>
+<rect x="1440" y="480" width="480" height="480" fill="url(#pattern5)"/>
+<rect x="959" y="480" width="480" height="480" fill="#D8D8D8"/>
+<rect x="959" y="480" width="480" height="480" fill="url(#pattern6)"/>
+<rect y="480" width="480" height="480" fill="#D8D8D8"/>
+<rect y="480" width="480" height="480" fill="url(#pattern7)"/>
+<g clip-path="url(#clip0_1_129)">
+<path d="M756.253 226.421C736.171 206.338 703.497 206.338 683.414 226.421L670 239.833L683.747 253.58C693.787 263.62 706.976 268.642 720.167 268.642C733.358 268.642 746.546 263.622 756.588 253.58L770.002 240.166L756.253 226.421ZM754.198 251.191C735.432 269.954 704.9 269.954 686.135 251.191L674.777 239.833L685.802 228.808C704.568 210.044 735.1 210.044 753.865 228.808L765.223 240.166L754.198 251.191Z" fill="white"/>
+<path d="M718.264 226.436C711.743 226.436 706.439 231.74 706.439 238.26C706.439 239.193 707.196 239.95 708.128 239.95C709.061 239.95 709.818 239.193 709.818 238.26C709.818 233.603 713.606 229.814 718.264 229.814C719.196 229.814 719.953 229.058 719.953 228.125C719.953 227.193 719.198 226.436 718.264 226.436Z" fill="white"/>
+<path d="M719.953 217.99C707.845 217.99 697.993 227.841 697.993 239.949C697.993 252.058 707.845 261.909 719.953 261.909C732.061 261.909 741.912 252.058 741.912 239.949C741.912 227.841 732.062 217.99 719.953 217.99ZM719.953 258.531C709.708 258.531 701.372 250.194 701.372 239.949C701.372 229.705 709.708 221.368 719.953 221.368C730.198 221.368 738.534 229.705 738.534 239.949C738.534 250.194 730.199 258.531 719.953 258.531Z" fill="white"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_129" transform="translate(-0.25) scale(0.000769231)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1_129" transform="translate(-0.249168) scale(0.00110988)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_129" transform="translate(-0.25) scale(0.000769231)"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1_129" transform="translate(-0.249168) scale(0.00110988)"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_129" transform="translate(-0.25) scale(0.000769231)"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_129" transform="translate(-0.25) scale(0.000769231)"/>
+</pattern>
+<pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1_129" transform="translate(-0.249168) scale(0.00110988)"/>
+</pattern>
+<pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1_129" transform="translate(-0.249168) scale(0.00110988)"/>
+</pattern>
+<clipPath id="clip0_1_129">
+<rect width="100" height="100" fill="white" transform="translate(670 190)"/>
+</clipPath>
+</defs>
+</svg>
